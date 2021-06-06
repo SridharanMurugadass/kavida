@@ -1,0 +1,38 @@
+[{
+    "id": 0,
+    "title": "Port Botany puts strain on supply chains",
+    "description": "Upto 90,000 containers at Port Botany in Sydney are stuck in Limbo as industrial go-slow action threats major delays and disruptions.",
+    "place":"Sydney, Australia",
+    "updated":"just now",
+    "news":"dailyExpress",
+    "action":"PORT DISRUPTION",
+    "twitter":true
+  },
+  {
+    "id": 1,
+    "title": "Hong Kong deploys thousands of police against protestors",
+    "description":" Hong Kong deployed police on thursday to quell first new attempts at protest since China imposed its tough national security law on the city in June.",
+    "place":"Hong Kong",
+    "action":"CIVIL UNREST",
+    "updated":"5m ago",
+    "news":"mhd"
+  },
+  {
+    "id": 2,
+    "title": "Chinese county launches emergency response for plague",
+    "description":"Authorities from south western county have recorded a new case of bubonic plague over the weekend as officials activated an emergency response",
+    "place":"China, Yunan Province",
+    "action":"BIOLOGICAL",
+    "updated":"15m ago",
+    "news":"mhd"
+  },
+  {
+    "id": 3,
+    "title": "Srilanka 75 news patients",
+    "description":"Authorities from south western county have recorded a new case of bubonic plague over the weekend as officials activated an emergency response",
+    "place":"SriLanka",
+    "action":"COVID-19",
+    "updated":"40m ago",
+    "news":"mhd"
+  }
+]
